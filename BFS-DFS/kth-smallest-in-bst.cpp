@@ -1,5 +1,5 @@
 // first is very naive easy approach of using a min heap
-
+// LC - 230
 class Solution {
 public:
 
