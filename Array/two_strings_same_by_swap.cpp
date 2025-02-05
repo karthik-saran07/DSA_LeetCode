@@ -1,5 +1,6 @@
 // LC - 1790
 
+
 class Solution {
 public:
     bool areAlmostEqual(string s1, string s2) {
